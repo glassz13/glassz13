@@ -20,4 +20,4 @@ Passionate about building and deploying end-to-end AI systems.
 
 ---
 
-mohikumardholkhera00019.com · [LinkedIn](https://linkedin.com/in/mohitkumar-116753375/)
+mohikumardholkhera00019.com · [LinkedIn](https://linkedin.com/in/mohitkumar-116753375)
