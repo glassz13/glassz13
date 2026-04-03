@@ -17,7 +17,6 @@ Building and deploying end-to-end AI systems.
 |---|---|---|
 | [Zeta](https://glassz13-zeta-ai.hf.space) — intelligent knowledge assistant | query your company docs in plain English | RAG · FAISS · LLaMA 3.1 · FastAPI · Docker |
 | [movie-recommender](https://glassz13-movie-recommend.hf.space) | type a movie, get 3 similar ones | sentence-transformers · FastAPI · Docker |
-| [upsc-mind-mapper](https://glassz13-upsc-mindmapper.hf.space) | instant mind maps for UPSC prelims | Groq · LLaMA 3.3 70B · prompt engineering |
 | [semantic-escape-game](https://glassz13-sematic-game.hf.space) | word chain game judged by AI in real time | transformer embeddings · cosine similarity |
 
 ---
