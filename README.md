@@ -18,6 +18,7 @@ Building and deploying end-to-end AI systems.
 | [Zeta](https://glassz13-zeta-ai.hf.space) — intelligent knowledge assistant | query your company docs in plain English | RAG · FAISS · LLaMA 3.1 · FastAPI · Docker |
 | [FrameLit](https://glassz13-movie-recommend.hf.space) — movie recommender | type a movie, get 3 similar ones | sentence-transformers · FastAPI · Docker |
 | [escapethevoid](https://glassz13-sematic-game.hf.space) — connect the words | word chain game judged by AI in real time | transformer embeddings · cosine similarity |
+| [Luggage Intel](https://luggage-brand-intel-96woi23brqzhsn5pqslnmv.streamlit.app) — Amazon competitive intelligence | scrape luggage brands, analyze 300+ reviews, surface non-obvious insights | BERT · TF-IDF · Streamlit · Plotly · Groq |
 
 ---
 
