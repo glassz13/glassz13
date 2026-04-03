@@ -16,8 +16,8 @@ Building and deploying end-to-end AI systems.
 | project | what it does | stack |
 |---|---|---|
 | [Zeta](https://glassz13-zeta-ai.hf.space) — intelligent knowledge assistant | query your company docs in plain English | RAG · FAISS · LLaMA 3.1 · FastAPI · Docker |
-| [movie-recommender](https://glassz13-movie-recommend.hf.space) — recommend me 3 movies | type a movie, get 3 similar ones | sentence-transformers · FastAPI · Docker |
-| [semantic-escape-game](https://glassz13-sematic-game.hf.space) — try this word connects game| word chain game judged by AI in real time | transformer embeddings · cosine similarity |
+| [FrameLit](https://glassz13-movie-recommend.hf.space) — movie recommender | type a movie, get 3 similar ones | sentence-transformers · FastAPI · Docker |
+| [escapethevoid](https://glassz13-sematic-game.hf.space) — connect the words | word chain game judged by AI in real time | transformer embeddings · cosine similarity |
 
 ---
 
