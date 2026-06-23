@@ -1,6 +1,14 @@
-# Mohit Kumar
+<div align="center">
 
-Building and deploying end-to-end AI systems.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohit+Kumar+%F0%9F%91%8B;AI+Engineer+%7C+Builder+%7C+Tinkerer;RAG+%C2%B7+LLMs+%C2%B7+Embeddings+%C2%B7+FastAPI;From+raw+data+%E2%86%92+intelligent+products)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="520" alt="space scene"/>
+
+</div>
+
+---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -10,6 +18,8 @@ Building and deploying end-to-end AI systems.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
@@ -22,4 +32,8 @@ Building and deploying end-to-end AI systems.
 
 ---
 
-mohikumardholkhera00019.com · [LinkedIn](https://linkedin.com/in/mohit-kumar-116753375)
+<div align="center">
+
+[mohikumardholkhera00019.com](http://mohikumardholkhera00019.com) · [LinkedIn](https://linkedin.com/in/mohit-kumar-116753375)
+
+</div>
