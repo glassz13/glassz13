@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohit+Kumar+%F0%9F%91%8B;AI+Engineer+%7C+Builder+%7C+Tinkerer;RAG+%C2%B7+LLMs+%C2%B7+Embeddings+%C2%B7+FastAPI;From+raw+data+%E2%86%92+intelligent+products)](https://git.io/typing-svg)
 
-<br/>
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="520" alt="space scene"/>
-
 </div>
 
 ---
