@@ -1,6 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohit+Kumar+%F0%9F%91%8B;AI+Engineer+%7C+Builder+%7C+Tinkerer;RAG+%C2%B7+LLMs+%C2%B7+Embeddings+%C2%B7+FastAPI;From+raw+data+%E2%86%92+intelligent+products)](https://git.io/typing-svg)
+# Hi, I'm Mohit Kumar 👋
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d185c05d95ca4b82f03c4efd7f65e8b7/images/galaxy.gif" width="350"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+intelligent+software+end+to+end;LLMs+%C2%B7+Agentic+AI+%C2%B7+ML+%C2%B7+FastAPI)](https://git.io/typing-svg)
 
 </div>
 
