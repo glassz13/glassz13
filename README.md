@@ -17,7 +17,7 @@
 
 ---
 
-| project | what it does | stack |
+| Project | What it does | Stack |
 |---|---|---|
 | [FrameLit](https://glassz13-movie-recommend.hf.space) — movie recommender | type a movie, get 3 similar ones | sentence-transformers · FastAPI · Docker |
 | [Zeta](https://glassz13-zeta-ai.hf.space) — intelligent knowledge assistant | query your company docs in plain English | RAG · FAISS · LLaMA 3.1 · FastAPI · Docker |
