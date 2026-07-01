@@ -1,7 +1,5 @@
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohit+%F0%9F%91%8B;Building+intelligent+software+end+to+end;LLMs+%C2%B7+Agentic+AI+%C2%B7+ML+%C2%B7+FastAPI)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -21,8 +19,9 @@
 
 | project | what it does | stack |
 |---|---|---|
-| [Zeta](https://glassz13-zeta-ai.hf.space) — intelligent knowledge assistant | query your company docs in plain English | RAG · FAISS · LLaMA 3.1 · FastAPI · Docker |
 | [FrameLit](https://glassz13-movie-recommend.hf.space) — movie recommender | type a movie, get 3 similar ones | sentence-transformers · FastAPI · Docker |
+| [Zeta](https://glassz13-zeta-ai.hf.space) — intelligent knowledge assistant | query your company docs in plain English | RAG · FAISS · LLaMA 3.1 · FastAPI · Docker |
+| [Signal AI](https://huggingface.co/spaces/glassz13/signal-ai) — daily science & tech news | curated science, tech and economy news for India, rewritten and ranked by AI | FastAPI · Groq · Supabase · BeautifulSoup |
 | [escapethevoid](https://glassz13-sematic-game.hf.space) — connect the words | word chain game judged by AI in real time | transformer embeddings · cosine similarity |
 | [Luggage Intel](https://luggage-brand-intel-96woi23brqzhsn5pqslnmv.streamlit.app) — Amazon competitive intelligence | scrape luggage brands, analyze 300+ reviews, surface non-obvious insights | BERT · TF-IDF · Streamlit · Plotly · Groq |
 
